@@ -40,4 +40,4 @@ How to adapt it to your environment:
 - Install paramiko
 - Install natsort
 - Modify "layers.py" to define your network hierarchies
-- Modify other appropriately to suit your device naming convention, e.g. namecheck.py, link_sort.py (more details on this to follow...)
+- Modify other appropriately to suit your device naming convention, e.g. namecheck.py, link_sort.py (more details on this to follow...
